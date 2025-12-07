@@ -1,12 +1,17 @@
-## Hi there 👋
+# WebSideProject
 
-<!--
+<div align="center">
+  <video src="https://github.com/websideproject/.github/raw/refs/heads/main/public/Herosection.mp4" autoplay loop muted playsinline style="border-radius: 12px; max-width: 100%;"></video>
+</div>
 
-**Here are some ideas to get you started:**
+## Building Landing Pages & MVPs for SaaS Founders
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+We help SaaS founders bring their vision to life:
+- 🎨 Custom landing pages that convert
+- 🚀 MVP development and rapid prototyping
+- 🔧 Full deployment and infrastructure setup
+- 📈 Growth-focused design and development
+
+---
+
+**Ready to launch your SaaS?** [Let's build something great together →](https://websideproject.com)
