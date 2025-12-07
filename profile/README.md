@@ -1,7 +1,7 @@
 # WebSideProject
 
 <div align="center">
-  <video src="https://github.com/websideproject/.github/raw/refs/heads/main/public/Herosection.mp4" autoplay loop muted playsinline style="border-radius: 12px; max-width: 100%;"></video>
+  <video src="https://github.com/user-attachments/assets/e41a6ac9-68fa-4d1d-9c3c-cad1a4dd39a8" autoplay loop muted playsinline style="border-radius: 12px; max-width: 100%;"></video>
 </div>
 
 ## Building Landing Pages & MVPs for SaaS Founders
