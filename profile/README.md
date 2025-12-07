@@ -1,9 +1,12 @@
 # websideproject
 
+<!--
 <div align="center">
   <video src="https://github.com/user-attachments/assets/f1d227a6-5094-43da-97fa-a3ffbbc0c9bf" autoplay loop muted playsinline style="border-radius: 12px; max-width: 100%;"></video>
 </div>
+-->
 
+![websideproject](https://github.com/user-attachments/assets/b916c2ad-91e3-4de7-90f3-c0b7677bbe53)
 
 
 ## Building Landing Pages & MVPs for SaaS Founders
