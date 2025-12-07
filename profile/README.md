@@ -1,12 +1,15 @@
-# WebSideProject
+# websideproject
 
 <div align="center">
-  <video src="https://github.com/user-attachments/assets/e41a6ac9-68fa-4d1d-9c3c-cad1a4dd39a8" autoplay loop muted playsinline style="border-radius: 12px; max-width: 100%;"></video>
+  <video src="https://github.com/user-attachments/assets/f1d227a6-5094-43da-97fa-a3ffbbc0c9bf" autoplay loop muted playsinline style="border-radius: 12px; max-width: 100%;"></video>
 </div>
+
+
 
 ## Building Landing Pages & MVPs for SaaS Founders
 
 We help SaaS founders bring their vision to life:
+
 - 🎨 Custom landing pages that convert
 - 🚀 MVP development and rapid prototyping
 - 🔧 Full deployment and infrastructure setup
